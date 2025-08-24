@@ -10,7 +10,8 @@ Pump.fun smart contract that supports token 2022, tax token create, pool, migrat
 - migration on raydium CPMM
 - custom fee distribution logic is possible to implement
 
-program address: GY4gideNhYWJLkgxDW7q9hS6U2SrKb9AmSUbJPsWhEKB
+program address: HZwDMRNBdTDUha32QxV5zRGJ4JqypS4M9e5hzAtRhfma
+
 
 - token creation transaction
 https://solscan.io/tx/5QYCTaGHaareH5CoCMDeDCSxq785BfdMhKmbeKWizq7uAeVptkAuyY8N1QSc78N8YPKLi3fXTZxAfPMdzy76jT25?cluster=devnet
